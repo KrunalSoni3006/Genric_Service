@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2017\Projects\Genric_Service\ComsoleApp\bin\Debug\netcoreapp1.1\ComsoleApp.deps.json
+D:\Documents\Visual Studio 2017\Projects\Genric_Service\ComsoleApp\bin\Debug\netcoreapp1.1\ComsoleApp.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\Genric_Service\ComsoleApp\bin\Debug\netcoreapp1.1\ComsoleApp.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\Genric_Service\ComsoleApp\bin\Debug\netcoreapp1.1\ComsoleApp.dll
+D:\Documents\Visual Studio 2017\Projects\Genric_Service\ComsoleApp\bin\Debug\netcoreapp1.1\ComsoleApp.pdb
+D:\Documents\Visual Studio 2017\Projects\Genric_Service\ComsoleApp\obj\Debug\netcoreapp1.1\ComsoleApp.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Genric_Service\ComsoleApp\obj\Debug\netcoreapp1.1\ComsoleApp.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\Genric_Service\ComsoleApp\obj\Debug\netcoreapp1.1\ComsoleApp.dll
+D:\Documents\Visual Studio 2017\Projects\Genric_Service\ComsoleApp\obj\Debug\netcoreapp1.1\ComsoleApp.pdb
